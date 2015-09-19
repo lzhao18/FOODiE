@@ -24,8 +24,16 @@
 # log files
 *.log
 
-# special directories
+# special directories and files
 doc/html/
 external/lib/
 references/
 wiki/
+get_automatic_changelog.sh
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.spl
+*.synctex.gz
